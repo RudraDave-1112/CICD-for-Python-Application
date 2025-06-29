@@ -1,4 +1,7 @@
 # CICD-for-Python-Application
+Link for the Repos and Packages of this Project :
+https://drive.google.com/drive/folders/1OK8hR3lp_tlH0kecdJ2T0BFOMXdN48fR?usp=drive_link
+
 In this lab, I designed and implemented a Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Python-based API. The automation included infrastructure provisioning, pipeline configuration using Jenkins, and deployment of the application via Ansible.
 
 1. Set Up GitHub Repositories:
@@ -27,6 +30,5 @@ Verified that the API was accessible and running on the server.
 6.Captured Running AWS Infrastructure:
 Documented the live state of all running AWS instances involved in the deployment.
 
-Link for the Repos and Packages of this Project :
-https://drive.google.com/drive/folders/1OK8hR3lp_tlH0kecdJ2T0BFOMXdN48fR?usp=drive_link
+
 
